@@ -10,11 +10,11 @@
 <script src="Components/jquery-3.2.1.min.js"></script>
 <script src="Components/hospitals.js"></script>
 </head>
-<body>
+<body background= 2.gif>
 	<div class="container">
 		<div class="row">
 			<div class="col-6">
-				<h1>Hospital Management V10.1</h1>
+				<h1>Hospital Management</h1>
 				<form id="formHospital" name="formHospital">
 					hostID: <input id="hostID" name="hostID" type="text"
 						class="form-control form-control-sm"> <br>
